@@ -1,3 +1,7 @@
+![Версия](https://img.shields.io/badge/версия-3.0.0-blue)
+![Лицензия](https://img.shields.io/badge/лицензия-vboat-green)
+![Платформа](https://img.shields.io/badge/платформа-Windows-lightgrey)
+![C#](https://img.shields.io/badge/язык-C%23-purple)
 ## Системные требования
 - Операционная система: Windows 7/8/10/11
 - Разрядность: x64 / x86
