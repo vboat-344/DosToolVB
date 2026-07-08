@@ -1,3 +1,8 @@
+# DosToolVB
+![Версия](https://img.shields.io/badge/версия-2.0.0-blue)
+![Лицензия](https://img.shields.io/badge/лицензия-vboat-green)
+![Платформа](https://img.shields.io/badge/платформа-Windows-lightgrey)
+
 ## Системные требования
 - Операционная система: Windows 7/8/10/11
 - Разрядность: x64 / x86
@@ -13,11 +18,13 @@
 
 ## Скачать
 Выберите удобный для вас способ установки:
-- **Установщик:** [Скачать `DosToolVB_v1.0.0_setup.exe`](https://github.com/vboat-344/DosToolVB/releases/download/v1.0.0/DosToolVB_v1.0.0_setup.exe)  
+- **Установщик:** [Скачать `DosToolVB_v2.0.0_setup.exe`](https://github.com/vboat-344/DosToolVB/releases/download/v2.0.0/DosToolVB_v2.0.0_setup.exe)  
   *(Классическая установка в систему, ярлык в меню «Пуск»)*
-- **Портабельная версия:** [Скачать `DosToolVB_v1.0.0_portable.zip`](https://github.com/vboat-344/DosToolVB/releases/download/v1.0.0/DosToolVB_v1.0.0_portable.zip)  
+- **Портабельная версия:** [Скачать `DosToolVB_v2.0.0_portable.zip`](https://github.com/vboat-344/DosToolVB/releases/download/v2.0.0/DosToolVB_v2.0.0_portable.zip)  
   *(Распакуйте архив и запускайте с флешки или из любой папки без установки)*
 Или перейдите в раздел [Releases](https://github.com/vboat-344/DosToolVB/releases) на GitHub.
+
+*(самая новая версия 2.0.0)*
 
 ## Как проверить автора
 Чтобы убедиться, что программа действительно создана автором (vboat), выполните следующие шаги:
